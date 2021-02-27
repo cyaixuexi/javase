@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javase.iml" filepath="$PROJECT_DIR$/.idea/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase反射/javase反射.iml" filepath="$PROJECT_DIR$/javase反射/javase反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_1/jdbc_1.iml" filepath="$PROJECT_DIR$/jdbc_1/jdbc_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_2/jdbc_2.iml" filepath="$PROJECT_DIR$/jdbc_2/jdbc_2.iml" />
+    </modules>
+  </component>
+</project>
